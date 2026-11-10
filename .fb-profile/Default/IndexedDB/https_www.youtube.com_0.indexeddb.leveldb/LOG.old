@@ -1,0 +1,6 @@
+2026/10/17-14:41:23.644 114dc6a Creating DB /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2026/10/17-14:41:23.646 114dc6a Reusing MANIFEST /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/17-14:41:28.238 114dc6a Level-0 table #5: started
+2026/10/17-14:41:28.239 114dc6a Level-0 table #5: 10567 bytes OK
+2026/10/17-14:41:28.247 114dc6a Delete type=0 #3
+2026/10/17-14:41:28.247 114dc6a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

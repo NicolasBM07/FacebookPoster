@@ -1,0 +1,7 @@
+2026/10/17-12:46:11.901 114dc6a Reusing MANIFEST /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/IndexedDB/https_www.fbsbx.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/17-12:46:11.903 114dc6a Recovering log #3
+2026/10/17-12:46:11.903 114dc6a Reusing old log /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/IndexedDB/https_www.fbsbx.com_0.indexeddb.leveldb/000003.log 
+2026/10/17-12:46:45.090 114dc6b Level-0 table #5: started
+2026/10/17-12:46:45.093 114dc6b Level-0 table #5: 874 bytes OK
+2026/10/17-12:46:45.096 114dc6b Delete type=0 #3
+2026/10/17-12:46:45.097 114dc6b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

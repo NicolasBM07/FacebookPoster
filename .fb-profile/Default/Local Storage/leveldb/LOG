@@ -1,0 +1,45 @@
+2026/11/02-10:05:54.447 197851 Reusing MANIFEST /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/02-10:05:54.448 197851 Recovering log #37
+2026/11/02-10:05:54.448 197851 Reusing old log /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/Local Storage/leveldb/000037.log 
+2026/11/02-10:06:54.454 197856 Level-0 table #41: started
+2026/11/02-10:06:54.457 197856 Level-0 table #41: 9500 bytes OK
+2026/11/02-10:06:54.460 197856 Delete type=0 #37
+2026/11/02-11:03:19.953 197856 Level-0 table #43: started
+2026/11/02-11:03:19.957 197856 Level-0 table #43: 27346 bytes OK
+2026/11/02-11:03:19.962 197856 Delete type=0 #40
+2026/11/02-11:13:19.945 197856 Level-0 table #45: started
+2026/11/02-11:13:19.948 197856 Level-0 table #45: 19479 bytes OK
+2026/11/02-11:13:19.951 197856 Delete type=0 #42
+2026/11/02-11:13:19.956 197856 Compacting 4@0 + 1@1 files
+2026/11/02-11:13:19.962 197856 Generated table #46@0: 2872 keys, 124607 bytes
+2026/11/02-11:13:19.962 197856 Compacted 4@0 + 1@1 files => 124607 bytes
+2026/11/02-11:13:19.963 197856 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/02-11:13:19.963 197856 Delete type=2 #38
+2026/11/02-11:13:19.963 197856 Delete type=2 #36
+2026/11/02-11:13:19.963 197856 Delete type=2 #43
+2026/11/02-11:13:19.963 197856 Delete type=2 #41
+2026/11/02-11:13:19.963 197856 Delete type=2 #45
+2026/11/02-11:19:19.941 197856 Level-0 table #48: started
+2026/11/02-11:19:19.945 197856 Level-0 table #48: 16619 bytes OK
+2026/11/02-11:19:19.947 197856 Delete type=0 #44
+2026/11/02-11:37:19.926 197856 Level-0 table #50: started
+2026/11/02-11:37:19.929 197856 Level-0 table #50: 10346 bytes OK
+2026/11/02-11:37:19.932 197856 Delete type=0 #47
+2026/11/02-11:55:22.501 197856 Level-0 table #52: started
+2026/11/02-11:55:22.504 197856 Level-0 table #52: 10475 bytes OK
+2026/11/02-11:55:22.507 197856 Delete type=0 #49
+2026/11/02-12:15:17.508 197856 Level-0 table #54: started
+2026/11/02-12:15:17.513 197856 Level-0 table #54: 10472 bytes OK
+2026/11/02-12:15:17.515 197856 Delete type=0 #51
+2026/11/02-12:15:17.517 197856 Compacting 4@0 + 1@1 files
+2026/11/02-12:15:17.526 197856 Generated table #55@0: 3834 keys, 144297 bytes
+2026/11/02-12:15:17.526 197856 Compacted 4@0 + 1@1 files => 144297 bytes
+2026/11/02-12:15:17.527 197856 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/02-12:15:17.528 197856 Delete type=2 #48
+2026/11/02-12:15:17.528 197856 Delete type=2 #54
+2026/11/02-12:15:17.528 197856 Delete type=2 #50
+2026/11/02-12:15:17.528 197856 Delete type=2 #52
+2026/11/02-12:15:17.528 197856 Delete type=2 #46
+2026/11/02-12:32:17.496 197856 Level-0 table #57: started
+2026/11/02-12:32:17.499 197856 Level-0 table #57: 10128 bytes OK
+2026/11/02-12:32:17.503 197856 Delete type=0 #53

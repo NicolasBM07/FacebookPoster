@@ -1,0 +1,21 @@
+{
+  "name": "facebook-auto-poster",
+  "version": "1.0.0",
+  "description": "Scrape Abbotsford Hyundai used inventory and post new vehicles to Facebook Marketplace",
+  "main": "run_all.js",
+  "scripts": {
+    "step1": "node step1_scrape.js",
+    "step2": "node step2_compare.js",
+    "step3": "node step3_download_images.js",
+    "step4": "node step4_post_to_facebook.js",
+    "step5": "node step5_finalize.js",
+    "all": "node run_all.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0",
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.2.0",
+    "sharp": "^0.33.0",
+    "sharp": "^0.33.5"
+  }
+}

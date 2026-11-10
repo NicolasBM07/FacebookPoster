@@ -1,0 +1,716 @@
+[
+  {
+    "success": true,
+    "key": "TP133340A",
+    "stock": "TP133340A",
+    "vehicle": "2013 Nissan Rogue | CERTIFIED | TP133340A",
+    "timestamp": "2026-11-02T17:34:28.566Z"
+  },
+  {
+    "success": true,
+    "key": "TE298935A",
+    "stock": "TE298935A",
+    "vehicle": "2016 Nissan Versa Note | CERTIFIED | TE298935A",
+    "timestamp": "2026-11-02T17:35:35.090Z"
+  },
+  {
+    "success": true,
+    "key": "AH10575A",
+    "stock": "AH10575A",
+    "vehicle": "2015 Chevrolet Cruze | CERTIFIED | AH10575A",
+    "timestamp": "2026-11-02T17:36:38.226Z"
+  },
+  {
+    "success": true,
+    "key": "AH10621A",
+    "stock": "AH10621A",
+    "vehicle": "2010 Honda CR-V | CERTIFIED | AH10621A",
+    "timestamp": "2026-11-02T17:37:37.928Z"
+  },
+  {
+    "success": true,
+    "key": "TE244348A",
+    "stock": "TE244348A",
+    "vehicle": "2016 BMW 3 Series | CERTIFIED | TE244348A",
+    "timestamp": "2026-11-02T17:38:41.693Z"
+  },
+  {
+    "success": true,
+    "key": "TK045034A",
+    "stock": "TK045034A",
+    "vehicle": "2018 Hyundai Elantra GT | CERTIFIED | TK045034A",
+    "timestamp": "2026-11-02T17:39:44.739Z"
+  },
+  {
+    "success": true,
+    "key": "TK450208A",
+    "stock": "TK450208A",
+    "vehicle": "2015 Hyundai Tucson | CERTIFIED | TK450208A",
+    "timestamp": "2026-11-02T17:40:43.491Z"
+  },
+  {
+    "success": true,
+    "key": "AH10568",
+    "stock": "AH10568",
+    "vehicle": "2017 BMW X3 | CERTIFIED | AH10568",
+    "timestamp": "2026-11-02T17:57:05.444Z"
+  },
+  {
+    "success": true,
+    "key": "AH10580A",
+    "stock": "AH10580A",
+    "vehicle": "2016 BMW X1 | CERTIFIED | AH10580A",
+    "timestamp": "2026-11-02T17:58:10.581Z"
+  },
+  {
+    "success": true,
+    "key": "AH10560",
+    "stock": "AH10560",
+    "vehicle": "2017 Nissan Qashqai | CERTIFIED | AH10560",
+    "timestamp": "2026-11-02T17:59:18.873Z"
+  },
+  {
+    "success": true,
+    "key": "AH10624",
+    "stock": "AH10624",
+    "vehicle": "2022 Chevrolet Spark | CERTIFIED | AH10624",
+    "timestamp": "2026-11-02T18:03:43.357Z"
+  },
+  {
+    "success": true,
+    "key": "AH10595A",
+    "stock": "AH10595A",
+    "vehicle": "2016 BMW X5 | CERTIFIED | AH10595A",
+    "timestamp": "2026-11-02T18:04:47.031Z"
+  },
+  {
+    "success": true,
+    "key": "AH10648A",
+    "stock": "AH10648A",
+    "vehicle": "2017 Hyundai Tucson | CERTIFIED | AH10648A",
+    "timestamp": "2026-11-02T18:05:49.689Z"
+  },
+  {
+    "success": true,
+    "key": "TT524566A",
+    "stock": "TT524566A",
+    "vehicle": "2016 Honda Civic Sedan | CERTIFIED | TT524566A",
+    "timestamp": "2026-11-02T18:06:48.573Z"
+  },
+  {
+    "success": true,
+    "key": "TF191871A",
+    "stock": "TF191871A",
+    "vehicle": "2021 Hyundai Venue | CERTIFIED | TF191871A",
+    "timestamp": "2026-11-02T18:07:56.847Z"
+  },
+  {
+    "success": true,
+    "key": "AH10628",
+    "stock": "AH10628",
+    "vehicle": "2023 Nissan Sentra | CERTIFIED | AH10628",
+    "timestamp": "2026-11-02T18:08:57.785Z"
+  },
+  {
+    "success": true,
+    "key": "AH10582",
+    "stock": "AH10582",
+    "vehicle": "2023 Kia Seltos | CERTIFIED | AH10582",
+    "timestamp": "2026-11-02T18:10:03.383Z"
+  },
+  {
+    "success": true,
+    "key": "AH10570",
+    "stock": "AH10570",
+    "vehicle": "2015 GMC Sierra 1500 | CERTIFIED | AH10570",
+    "timestamp": "2026-11-02T18:11:05.600Z"
+  },
+  {
+    "success": true,
+    "key": "AH10667",
+    "stock": "AH10667",
+    "vehicle": "2021 Hyundai Kona | CERTIFIED | AH10667",
+    "timestamp": "2026-11-02T18:12:08.230Z"
+  },
+  {
+    "success": true,
+    "key": "AH10591",
+    "stock": "AH10591",
+    "vehicle": "2022 Mitsubishi Outlander | CERTIFIED | AH10591",
+    "timestamp": "2026-11-02T18:13:09.851Z"
+  },
+  {
+    "success": true,
+    "key": "AH10630",
+    "stock": "AH10630",
+    "vehicle": "2018 Honda HR-V | CERTIFIED | AH10630",
+    "timestamp": "2026-11-02T18:14:09.274Z"
+  },
+  {
+    "success": true,
+    "key": "AH10638",
+    "stock": "AH10638",
+    "vehicle": "2023 Hyundai Sonata | CERTIFIED | AH10638",
+    "timestamp": "2026-11-02T18:15:14.600Z"
+  },
+  {
+    "success": true,
+    "key": "AH10599",
+    "stock": "AH10599",
+    "vehicle": "2020 Jeep Cherokee | CERTIFIED | AH10599",
+    "timestamp": "2026-11-02T18:16:20.600Z"
+  },
+  {
+    "success": true,
+    "key": "TT525778AA",
+    "stock": "TT525778AA",
+    "vehicle": "2018 Acura RDX | CERTIFIED | TT525778AA",
+    "timestamp": "2026-11-02T18:17:25.641Z"
+  },
+  {
+    "success": true,
+    "key": "AH10579",
+    "stock": "AH10579",
+    "vehicle": "2022 Kia Sorento | CERTIFIED | AH10579",
+    "timestamp": "2026-11-02T18:18:30.166Z"
+  },
+  {
+    "success": true,
+    "key": "TE202158AA",
+    "stock": "TE202158AA",
+    "vehicle": "2019 Dodge Durango | CERTIFIED | TE202158AA",
+    "timestamp": "2026-11-02T18:19:36.847Z"
+  },
+  {
+    "success": true,
+    "key": "VK533647A",
+    "stock": "VK533647A",
+    "vehicle": "2021 Kia Seltos | CERTIFIED | VK533647A",
+    "timestamp": "2026-11-02T18:20:39.526Z"
+  },
+  {
+    "success": true,
+    "key": "TV479000A",
+    "stock": "TV479000A",
+    "vehicle": "2021 GMC Terrain | CERTIFIED | TV479000A",
+    "timestamp": "2026-11-02T18:21:44.026Z"
+  },
+  {
+    "success": true,
+    "key": "AH10656",
+    "stock": "AH10656",
+    "vehicle": "2026 Hyundai Venue | CERTIFIED | AH10656",
+    "timestamp": "2026-11-02T18:22:48.453Z"
+  },
+  {
+    "success": true,
+    "key": "AH10613",
+    "stock": "AH10613",
+    "vehicle": "2021 MINI 5 Door | CERTIFIED | AH10613",
+    "timestamp": "2026-11-02T18:23:47.656Z"
+  },
+  {
+    "success": true,
+    "key": "AH10668",
+    "stock": "AH10668",
+    "vehicle": "2020 Cadillac XT4 | CERTIFIED | AH10668",
+    "timestamp": "2026-11-02T18:24:53.293Z"
+  },
+  {
+    "success": true,
+    "key": "TE228949",
+    "stock": "TE228949",
+    "vehicle": "2026 Hyundai Elantra | CERTIFIED | TE228949",
+    "timestamp": "2026-11-02T18:25:58.588Z"
+  },
+  {
+    "success": true,
+    "key": "AH10652A",
+    "stock": "AH10652A",
+    "vehicle": "2021 Hyundai Veloster N | CERTIFIED | AH10652A",
+    "timestamp": "2026-11-02T18:27:01.179Z"
+  },
+  {
+    "success": true,
+    "key": "AH10554",
+    "stock": "AH10554",
+    "vehicle": "2026 Hyundai Venue | CERTIFIED | AH10554",
+    "timestamp": "2026-11-02T18:28:05.486Z"
+  },
+  {
+    "success": true,
+    "key": "AH10584A",
+    "stock": "AH10584A",
+    "vehicle": "2020 INFINITI QX50 | CERTIFIED | AH10584A",
+    "timestamp": "2026-11-02T18:29:12.204Z"
+  },
+  {
+    "success": true,
+    "key": "TF204371A",
+    "stock": "TF204371A",
+    "vehicle": "2023 Hyundai Santa Fe | CERTIFIED | TF204371A",
+    "timestamp": "2026-11-02T18:30:13.888Z"
+  },
+  {
+    "success": true,
+    "key": "AH10639A",
+    "stock": "AH10639A",
+    "vehicle": "2024 Hyundai Kona Electric | CERTIFIED | AH10639A",
+    "timestamp": "2026-11-02T18:31:18.831Z"
+  },
+  {
+    "success": true,
+    "key": "AH10651",
+    "stock": "AH10651",
+    "vehicle": "2025 Hyundai Kona | CERTIFIED | AH10651",
+    "timestamp": "2026-11-02T18:32:18.221Z"
+  },
+  {
+    "success": true,
+    "key": "TK463425",
+    "stock": "TK463425",
+    "vehicle": "2026 Hyundai Kona | CERTIFIED | TK463425",
+    "timestamp": "2026-11-02T18:33:22.967Z"
+  },
+  {
+    "success": true,
+    "key": "AH10592A",
+    "stock": "AH10592A",
+    "vehicle": "2017 Lexus IS 350 | CERTIFIED | AH10592A",
+    "timestamp": "2026-11-02T18:34:26.840Z"
+  },
+  {
+    "success": true,
+    "key": "AH10622A",
+    "stock": "AH10622A",
+    "vehicle": "2025 Toyota bZ4X | CERTIFIED | AH10622A",
+    "timestamp": "2026-11-02T18:35:32.671Z"
+  },
+  {
+    "success": true,
+    "key": "VK522391A",
+    "stock": "VK522391A",
+    "vehicle": "2021 Subaru Forester | CERTIFIED | VK522391A",
+    "timestamp": "2026-11-02T18:36:27.689Z"
+  },
+  {
+    "success": true,
+    "key": "TE116825",
+    "stock": "TE116825",
+    "vehicle": "2026 Hyundai Elantra | CERTIFIED | TE116825",
+    "timestamp": "2026-11-02T18:37:34.558Z"
+  },
+  {
+    "success": true,
+    "key": "AH10566",
+    "stock": "AH10566",
+    "vehicle": "2018 Honda Odyssey | CERTIFIED | AH10566",
+    "timestamp": "2026-11-02T18:38:37.553Z"
+  },
+  {
+    "success": true,
+    "key": "AH10650",
+    "stock": "AH10650",
+    "vehicle": "2023 Hyundai Tucson | CERTIFIED | AH10650",
+    "timestamp": "2026-11-02T18:39:41.902Z"
+  },
+  {
+    "success": true,
+    "key": "TI408223A",
+    "stock": "TI408223A",
+    "vehicle": "2016 Toyota RAV4 | CERTIFIED | TI408223A",
+    "timestamp": "2026-11-02T18:40:46.793Z"
+  },
+  {
+    "success": true,
+    "key": "TT467278A",
+    "stock": "TT467278A",
+    "vehicle": "2024 Mazda CX-5 | CERTIFIED | TT467278A",
+    "timestamp": "2026-11-02T18:41:46.107Z"
+  },
+  {
+    "success": true,
+    "key": "AH10663",
+    "stock": "AH10663",
+    "vehicle": "2024 Hyundai Kona | CERTIFIED | AH10663",
+    "timestamp": "2026-11-02T18:42:49.945Z"
+  },
+  {
+    "success": true,
+    "key": "AH10643",
+    "stock": "AH10643",
+    "vehicle": "2026 Hyundai Tucson | CERTIFIED | AH10643",
+    "timestamp": "2026-11-02T18:43:53.145Z"
+  },
+  {
+    "success": true,
+    "key": "AH10596A",
+    "stock": "AH10596A",
+    "vehicle": "2017 Ram 1500 | CERTIFIED | AH10596A",
+    "timestamp": "2026-11-02T18:44:58.129Z"
+  },
+  {
+    "success": true,
+    "key": "TS162486",
+    "stock": "TS162486",
+    "vehicle": "2026 Hyundai Sonata Hybrid | CERTIFIED | TS162486",
+    "timestamp": "2026-11-02T18:46:04.136Z"
+  },
+  {
+    "success": true,
+    "key": "AH10657",
+    "stock": "AH10657",
+    "vehicle": "2026 Hyundai Tucson | CERTIFIED | AH10657",
+    "timestamp": "2026-11-02T18:47:03.507Z"
+  },
+  {
+    "success": true,
+    "key": "AH10653A",
+    "stock": "AH10653A",
+    "vehicle": "2018 Nissan Frontier | CERTIFIED | AH10653A",
+    "timestamp": "2026-11-02T18:48:09.367Z"
+  },
+  {
+    "success": true,
+    "key": "AH10631",
+    "stock": "AH10631",
+    "vehicle": "2023 BMW X3 | CERTIFIED | AH10631",
+    "timestamp": "2026-11-02T18:49:16.851Z"
+  },
+  {
+    "success": true,
+    "key": "AH10478",
+    "stock": "AH10478",
+    "vehicle": "2021 Audi e-tron | CERTIFIED | AH10478",
+    "timestamp": "2026-11-02T18:50:20.057Z"
+  },
+  {
+    "success": true,
+    "key": "AH10607",
+    "stock": "AH10607",
+    "vehicle": "2023 Hyundai Palisade | CERTIFIED | AH10607",
+    "timestamp": "2026-11-02T18:51:27.115Z"
+  },
+  {
+    "success": true,
+    "key": "AH10649",
+    "stock": "AH10649",
+    "vehicle": "2024 Hyundai Tucson Plug-In Hybrid | CERTIFIED | AH10649",
+    "timestamp": "2026-11-02T18:52:32.727Z"
+  },
+  {
+    "success": true,
+    "key": "AH10610",
+    "stock": "AH10610",
+    "vehicle": "2024 Chevrolet Equinox EV | CERTIFIED | AH10610",
+    "timestamp": "2026-11-02T18:53:35.058Z"
+  },
+  {
+    "success": true,
+    "key": "TT498247A",
+    "stock": "TT498247A",
+    "vehicle": "2025 Hyundai Tucson Hybrid | CERTIFIED | TT498247A",
+    "timestamp": "2026-11-02T18:54:44.614Z"
+  },
+  {
+    "success": true,
+    "key": "TE039344",
+    "stock": "TE039344",
+    "vehicle": "2026 Hyundai Elantra N | CERTIFIED | TE039344",
+    "timestamp": "2026-11-02T18:56:27.476Z"
+  },
+  {
+    "success": true,
+    "key": "AH10565",
+    "stock": "AH10565",
+    "vehicle": "2023 Ford Mustang Mach-E | CERTIFIED | AH10565",
+    "timestamp": "2026-11-02T18:58:34.950Z"
+  },
+  {
+    "success": true,
+    "key": "AH10627",
+    "stock": "AH10627",
+    "vehicle": "2026 Hyundai Santa Fe Hybrid | CERTIFIED | AH10627",
+    "timestamp": "2026-11-02T18:59:37.469Z"
+  },
+  {
+    "success": true,
+    "key": "AH10664",
+    "stock": "AH10664",
+    "vehicle": "2018 Toyota Tundra | CERTIFIED | AH10664",
+    "timestamp": "2026-11-02T19:00:44.958Z"
+  },
+  {
+    "success": true,
+    "key": "VK521557A",
+    "stock": "VK521557A",
+    "vehicle": "2024 Mazda CX-50 | CERTIFIED | VK521557A",
+    "timestamp": "2026-11-02T19:01:49.103Z"
+  },
+  {
+    "success": true,
+    "key": "TF202545AA",
+    "stock": "TF202545AA",
+    "vehicle": "2025 Hyundai Santa Fe | CERTIFIED | TF202545AA",
+    "timestamp": "2026-11-02T19:02:56.594Z"
+  },
+  {
+    "success": true,
+    "key": "AH10539",
+    "stock": "AH10539",
+    "vehicle": "2025 Toyota RAV4 | CERTIFIED | AH10539",
+    "timestamp": "2026-11-02T19:04:03.380Z"
+  },
+  {
+    "success": true,
+    "key": "AH10660",
+    "stock": "AH10660",
+    "vehicle": "2023 Audi Q4 e-tron Sportback | CERTIFIED | AH10660",
+    "timestamp": "2026-11-02T19:05:04.112Z"
+  },
+  {
+    "success": true,
+    "key": "AH10647",
+    "stock": "AH10647",
+    "vehicle": "2023 Cadillac LYRIQ | CERTIFIED | AH10647",
+    "timestamp": "2026-11-02T19:06:04.138Z"
+  },
+  {
+    "success": true,
+    "key": "AH10611",
+    "stock": "AH10611",
+    "vehicle": "2024 Hyundai Palisade | CERTIFIED | AH10611",
+    "timestamp": "2026-11-02T19:07:05.789Z"
+  },
+  {
+    "success": true,
+    "key": "AH10617",
+    "stock": "AH10617",
+    "vehicle": "2025 Mazda CX-90 PHEV | CERTIFIED | AH10617",
+    "timestamp": "2026-11-02T19:08:08.485Z"
+  },
+  {
+    "success": true,
+    "key": "AH10636",
+    "stock": "AH10636",
+    "vehicle": "2025 Tesla Model 3 | CERTIFIED | AH10636",
+    "timestamp": "2026-11-02T19:09:14.222Z"
+  },
+  {
+    "success": true,
+    "key": "AH10623",
+    "stock": "AH10623",
+    "vehicle": "2025 Mazda CX-70 PHEV | CERTIFIED | AH10623",
+    "timestamp": "2026-11-02T19:10:15.543Z"
+  },
+  {
+    "success": true,
+    "key": "AH10552",
+    "stock": "AH10552",
+    "vehicle": "2025 Genesis GV70 | CERTIFIED | AH10552",
+    "timestamp": "2026-11-02T19:11:17.915Z"
+  },
+  {
+    "success": true,
+    "key": "AH10548A",
+    "stock": "AH10548A",
+    "vehicle": "2018 BMW M4 | CERTIFIED | AH10548A",
+    "timestamp": "2026-11-02T19:12:20.447Z"
+  },
+  {
+    "success": true,
+    "key": "AH10641",
+    "stock": "AH10641",
+    "vehicle": "2022 Audi e-tron | CERTIFIED | AH10641",
+    "timestamp": "2026-11-02T19:13:19.912Z"
+  },
+  {
+    "success": true,
+    "key": "AH10625",
+    "stock": "AH10625",
+    "vehicle": "2018 Toyota Tundra | CERTIFIED | AH10625",
+    "timestamp": "2026-11-02T19:14:26.427Z"
+  },
+  {
+    "success": true,
+    "key": "AH10653",
+    "stock": "AH10653",
+    "vehicle": "2024 Ford F-150 | CERTIFIED | AH10653",
+    "timestamp": "2026-11-02T19:15:27.636Z"
+  },
+  {
+    "success": true,
+    "key": "AH10640",
+    "stock": "AH10640",
+    "vehicle": "2024 Genesis GV60 | CERTIFIED | AH10640",
+    "timestamp": "2026-11-02T19:16:27.713Z"
+  },
+  {
+    "success": true,
+    "key": "AH10645",
+    "stock": "AH10645",
+    "vehicle": "2021 Toyota Tundra | CERTIFIED | AH10645",
+    "timestamp": "2026-11-02T19:17:34.232Z"
+  },
+  {
+    "success": true,
+    "key": "AH10525A",
+    "stock": "AH10525A",
+    "vehicle": "2018 Honda Civic Type R | CERTIFIED | AH10525A",
+    "timestamp": "2026-11-02T19:18:35.584Z"
+  },
+  {
+    "success": true,
+    "key": "AH10662",
+    "stock": "AH10662",
+    "vehicle": "2025 Honda Ridgeline | CERTIFIED | AH10662",
+    "timestamp": "2026-11-02T19:19:35.763Z"
+  },
+  {
+    "success": true,
+    "key": "AH10618",
+    "stock": "AH10618",
+    "vehicle": "2023 Ford F-150 Lightning | CERTIFIED | AH10618",
+    "timestamp": "2026-11-02T19:20:37.536Z"
+  },
+  {
+    "success": true,
+    "key": "AH10659",
+    "stock": "AH10659",
+    "vehicle": "2023 Acura MDX | CERTIFIED | AH10659",
+    "timestamp": "2026-11-02T19:21:42.315Z"
+  },
+  {
+    "success": true,
+    "key": "AH10557",
+    "stock": "AH10557",
+    "vehicle": "2026 Kia Sorento Plug-In Hybrid | CERTIFIED | AH10557",
+    "timestamp": "2026-11-02T19:22:47.831Z"
+  },
+  {
+    "success": true,
+    "key": "TP108803A",
+    "stock": "TP108803A",
+    "vehicle": "2026 Chevrolet Blazer EV | CERTIFIED | TP108803A",
+    "timestamp": "2026-11-02T19:23:50.280Z"
+  },
+  {
+    "success": true,
+    "key": "AH10661",
+    "stock": "AH10661",
+    "vehicle": "2025 Toyota RAV4 Plug-In Hybrid | CERTIFIED | AH10661",
+    "timestamp": "2026-11-02T19:24:50.857Z"
+  },
+  {
+    "success": true,
+    "key": "AH10635",
+    "stock": "AH10635",
+    "vehicle": "2021 Cadillac CT5 | CERTIFIED | AH10635",
+    "timestamp": "2026-11-02T19:25:54.915Z"
+  },
+  {
+    "success": true,
+    "key": "AH10612",
+    "stock": "AH10612",
+    "vehicle": "2024 Volvo XC90 Recharge | CERTIFIED | AH10612",
+    "timestamp": "2026-11-02T19:26:54.868Z"
+  },
+  {
+    "success": true,
+    "key": "TP032305",
+    "stock": "TP032305",
+    "vehicle": "2026 Hyundai Palisade Hybrid | CERTIFIED | TP032305",
+    "timestamp": "2026-11-02T19:27:56.387Z"
+  },
+  {
+    "success": true,
+    "key": "AH10558",
+    "stock": "AH10558",
+    "vehicle": "2025 Toyota Sienna | CERTIFIED | AH10558",
+    "timestamp": "2026-11-02T19:28:58.168Z"
+  },
+  {
+    "success": true,
+    "key": "AH10644",
+    "stock": "AH10644",
+    "vehicle": "2023 Mercedes-Benz EQS | CERTIFIED | AH10644",
+    "timestamp": "2026-11-02T19:29:58.937Z"
+  },
+  {
+    "success": true,
+    "key": "AH10665",
+    "stock": "AH10665",
+    "vehicle": "2022 Audi SQ8 | CERTIFIED | AH10665",
+    "timestamp": "2026-11-02T19:31:02.329Z"
+  },
+  {
+    "success": true,
+    "key": "TN002114",
+    "stock": "TN002114",
+    "vehicle": "2026 Hyundai IONIQ 9 | CERTIFIED | TN002114",
+    "timestamp": "2026-11-02T19:32:09.769Z"
+  },
+  {
+    "success": true,
+    "key": "AH10616",
+    "stock": "AH10616",
+    "vehicle": "2026 Tesla Model Y | CERTIFIED | AH10616",
+    "timestamp": "2026-11-02T19:33:13.731Z"
+  },
+  {
+    "success": true,
+    "key": "AH10666",
+    "stock": "AH10666",
+    "vehicle": "2021 Porsche Taycan | CERTIFIED | AH10666",
+    "timestamp": "2026-11-02T19:34:19.307Z"
+  },
+  {
+    "success": true,
+    "key": "AH10559",
+    "stock": "AH10559",
+    "vehicle": "2023 Audi RS 5 Sportback | CERTIFIED | AH10559",
+    "timestamp": "2026-11-02T19:35:20.270Z"
+  },
+  {
+    "success": true,
+    "key": "AH10646",
+    "stock": "AH10646",
+    "vehicle": "2021 Mercedes-Benz C-Class | CERTIFIED | AH10646",
+    "timestamp": "2026-11-02T19:36:27.072Z"
+  },
+  {
+    "success": true,
+    "key": "AH10654",
+    "stock": "AH10654",
+    "vehicle": "2026 Tesla Model Y | CERTIFIED | AH10654",
+    "timestamp": "2026-11-02T19:37:27.968Z"
+  },
+  {
+    "success": true,
+    "key": "AH10632",
+    "stock": "AH10632",
+    "vehicle": "2024 GMC HUMMER EV SUV | CERTIFIED | AH10632",
+    "timestamp": "2026-11-02T19:38:30.042Z"
+  },
+  {
+    "success": true,
+    "key": "AH10655",
+    "stock": "AH10655",
+    "vehicle": "2024 Tesla Model S | CERTIFIED | AH10655",
+    "timestamp": "2026-11-02T19:39:34.141Z"
+  },
+  {
+    "success": false,
+    "key": "TV501292",
+    "stock": "TV501292",
+    "vehicle": "2026 Hyundai Venue | CERTIFIED | TV501292",
+    "timestamp": "2026-11-02T19:40:33.574Z"
+  },
+  {
+    "success": false,
+    "key": "TE219344",
+    "stock": "TE219344",
+    "vehicle": "2026 Hyundai Elantra | CERTIFIED | TE219344",
+    "timestamp": "2026-11-02T19:41:31.775Z"
+  }
+]

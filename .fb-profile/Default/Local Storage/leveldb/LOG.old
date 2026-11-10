@@ -1,0 +1,21 @@
+2026/11/01-13:19:50.317 169155 Reusing MANIFEST /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/11/01-13:19:50.317 169155 Recovering log #29
+2026/11/01-13:19:50.318 169155 Reusing old log /Users/nicolas/Documents/facebook-auto-poster/.fb-profile/Default/Local Storage/leveldb/000029.log 
+2026/11/01-13:28:51.366 16915a Level-0 table #33: started
+2026/11/01-13:28:51.370 16915a Level-0 table #33: 10066 bytes OK
+2026/11/01-13:28:51.375 16915a Delete type=0 #29
+2026/11/01-15:49:01.047 16915a Level-0 table #35: started
+2026/11/01-15:49:01.052 16915a Level-0 table #35: 8331 bytes OK
+2026/11/01-15:49:01.055 16915a Delete type=0 #32
+2026/11/01-15:49:01.057 169155 Compacting 4@0 + 1@1 files
+2026/11/01-15:49:01.063 169155 Generated table #36@0: 2450 keys, 81802 bytes
+2026/11/01-15:49:01.063 169155 Compacted 4@0 + 1@1 files => 81802 bytes
+2026/11/01-15:49:01.065 169155 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/01-15:49:01.065 169155 Delete type=2 #28
+2026/11/01-15:49:01.065 169155 Delete type=2 #35
+2026/11/01-15:49:01.065 169155 Delete type=2 #33
+2026/11/01-15:49:01.065 169155 Delete type=2 #25
+2026/11/01-15:49:01.065 169155 Delete type=2 #30
+2026/11/02-08:41:35.948 16915a Level-0 table #38: started
+2026/11/02-08:41:35.951 16915a Level-0 table #38: 14179 bytes OK
+2026/11/02-08:41:35.954 16915a Delete type=0 #34
