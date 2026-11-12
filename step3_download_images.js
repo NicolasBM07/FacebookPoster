@@ -69,9 +69,6 @@ async function main() {
         urls = (await S.extractDetail(page)).images;
       } catch (e) { warn(`  page load failed: ${e.message.split("\n")[0]}`); }
       if (urls.length === 0) urls = v.images || [];
-      // New website template: photo 1, then the last photo back to photo 2 -> restore website order
-      // (done on the full list, before the photo limit is applied)
-      if (CONFIG.FIX_GALLERY_ORDER && urls.length > 2) urls = [urls[0], ...urls.slice(1).reverse()];
       urls = urls.slice(0, CONFIG.MAX_PHOTOS);
 
       let n = 0;

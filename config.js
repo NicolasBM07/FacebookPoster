@@ -7,13 +7,12 @@ module.exports = {
   // Max photos downloaded and uploaded per vehicle
   MAX_PHOTOS: 19,
 
-  // The new website template lists the gallery as: photo 1, then the last photo back to photo 2.
-  // true  = fix that (photo 1 first, then the rest reversed back into website order)
-  // false = keep the order exactly as found on the page
-  FIX_GALLERY_ORDER: true,
+  // The image server makes any size on request. The page's full photo list only has small 768px
+  // versions, so step 1/3 swap in these size codes to get the large photo.
+  FULL_SIZE_PARAMS: "w_1920,h_1440,q_75",
 
-  // Website photos carry a watermark strip along the top. Crop is proportional, so a
-  // 1600x1200 photo becomes 1280x960 (240px off the top, 160px off each side).
+  // Website photos carry a watermark strip along the top. Crop is proportional (percent of the photo):
+  // topPct removed from the top, sidePct removed from EACH side (0 = no side crop).
   CROP: { enabled: true, topPct: 0.2, sidePct: 0},
 
   // Only images hosted on a matching host are treated as vehicle photos
@@ -31,7 +30,6 @@ module.exports = {
   DESCRIPTION: `NICOLAS MILLAN 
   
   📞 Check availability at 7O5 929 71 -11 
-  🔖 Stock #: {STOCK}
 
   🚘 AT, Best Price Dealer for 2026   
   💵 Vehicles Under $10k   
@@ -44,10 +42,8 @@ module.exports = {
   and an $119 fuel surcharge. Hyundai Certified Pre‐Owned (CPO)
   vehicles may also be subject to a Hyundai CPO certification 
   fee of up to $1,299. This fee does not apply to non‐Hyundai vehicles. 
-  Advertised price is the finance price; dealer number 31001
-  vehicle stock number {STOCK}, cash price may differ. 
-  Please refer to our website for the most up‐to‐date information.
-
+  Advertised price is the finance price; dealer number: 31001 stock #: {STOCK}
+  cash price may differ. Please refer to our website for the most up‐to‐date information.
   `,
 
   // Description for one vehicle (fills in the stock number)
